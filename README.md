@@ -9,6 +9,7 @@
 Part A was done as a group, but unfortunately Part B was done alone. Therefore, I only give a link to the github attributes of Part A.
 
 https://github.com/jobitoalv/T3A2/graphs/contributors
+
 Please see below - Part A
 
 ## R5. Produce a Working Application That Meets Client and User Needs
@@ -56,7 +57,7 @@ Please see app for Jest(React) and Rsepc(Rails) on testing files.
 ---
 #### Documented by Eun Jeon(Kyu), Job Alvarez Chow, and 	Ethan Tran
 ---
-***Part A planning is different from my actual outcome which is Part B***
+***Part A planning documentation is different from my actual outcome which is Part B***
 
 
 ## R1 Description of your website, including:
