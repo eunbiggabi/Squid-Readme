@@ -39,6 +39,13 @@ Please see app.
 | TYPE | TASK | OUTCOME | COMMENTS |
 | :--: | :--: | :-----: | :------: |
 | authenticate | user can sign up | pass | failed to navigate to /home page but User data still created
+| authenticate | user can login | pass | log_in success and navigate to /maker page|
+| authenticate | user can log out | pass |
+| intergration | get data from heroku | pass | initial data shows from seed file |
+| card | add card | fails | data not save to back-end, but it is working on front-end |
+| card | edit card | fails | data not save to back-end, but it is working on front-end |
+| card | delete card | fails | data not save to back-end, but it is working on front-end |
+
 
 
 
