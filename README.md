@@ -34,6 +34,14 @@ Deployed. Please check R10 below.
 
 Please see app.
 
+## R8. Evidence of User Testing
+
+| TYPE | TASK | OUTCOME | COMMENTS |
+| :--: | :--: | :-----: | :------: |
+| authenticate | user can sign up | pass | failed to navigate to /home page but User data still created
+
+
+
 ## R9. Utilises a Formal Testing Framework
 
 Please see app for Jest(React) and Rsepc(Rails) on testing files.
