@@ -101,7 +101,9 @@ Please see app for Jest and Cypress on testing files.
 ---
 #### Documented by Eun Jeon(Kyu), Job Alvarez Chow, and 	Ethan Tran
 ---
-***Part A planning documentation is different from my actual outcome which is Part B. You can check changed documentation by ppt folder***
+***Note: Part A planning documentation is different from my actual outcome which is Part B***
+
+***Part B documentation can be check from "PPL folder" which is problem solving, purpose, erd, wireframe and Challenges***
 
 
 ## R1 Description of your website, including:
