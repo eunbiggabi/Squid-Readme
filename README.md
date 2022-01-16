@@ -40,8 +40,8 @@ Please see app.
 
 | TYPE | TASK | OUTCOME | COMMENTS |
 | :--: | :--: | :-----: | :------: |
-| authenticate | user can sign up | pass | failed to navigate to /home page but User data still created
-| authenticate | user can login | pass | log_in success and navigate to /maker page|
+| authenticate | user can sign up | fail | cannot able to create user
+| authenticate | user can login | pass | only can log in with seed file data and navigate to /maker page|
 | authenticate | user can log out | pass |
 | intergration | get data from heroku | pass | initial data shows from seed file |
 | card | add card | fail | data not save to back-end, but it is working on front-end |
@@ -62,7 +62,7 @@ Please see app.
 | TYPE | TASK | OUTCOME | COMMENTS |
 | :--: | :--: | :-----: | :------: |
 | authenticate | user can sign up | fail | not sure whether I sign up or not. Nothing shows up |
-| authenticate | user can login | pass | able to log in with what I create |
+| authenticate | user can login | fail | not able to log in with what I create, but it is working with exsiting user |
 | authenticate | user can log out | pass |
 | intergration | get data from heroku | n/a | 
 | card | add card | fail | looks working well, but everything return to original when I refresh |
