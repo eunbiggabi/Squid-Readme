@@ -57,7 +57,7 @@ Please see app.
 
 
 #### In the production environment
-***this test done by my friend(Kim and Sammi)***
+***this test done by my friends(Kim and Sammi)***
 
 | TYPE | TASK | OUTCOME | COMMENTS |
 | :--: | :--: | :-----: | :------: |
