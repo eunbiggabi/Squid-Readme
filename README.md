@@ -34,7 +34,9 @@ Deployed. Please check R10 below.
 
 Please see app.
 
-## R8. Evidence of User Testing
+## R8. Provides evidence of user testing
+
+#### In the development environment
 
 | TYPE | TASK | OUTCOME | COMMENTS |
 | :--: | :--: | :-----: | :------: |
@@ -42,16 +44,43 @@ Please see app.
 | authenticate | user can login | pass | log_in success and navigate to /maker page|
 | authenticate | user can log out | pass |
 | intergration | get data from heroku | pass | initial data shows from seed file |
-| card | add card | fails | data not save to back-end, but it is working on front-end |
-| card | edit card | fails | data not save to back-end, but it is working on front-end |
-| card | delete card | fails | data not save to back-end, but it is working on front-end |
+| card | add card | fail | data not save to back-end, but it is working on front-end |
+| card | edit card | fail | data not save to back-end, but it is working on front-end |
+| card | delete card | fail | data not save to back-end, but it is working on front-end |
+| theme | choose color | fail | data not save to back-end, but it is working on front-end |
+| image | upload | fail | 
+| search | user can search by name | pass | able to search all the seed file data |
+| search | user can see error message | pass | show up with red color error message |
+| link | user able to access to all routes | pass | 
+| display | user diplay | pass | try not to use fluorescent color |
+| responsive | switch to mobile and tablet | pass | everything is responsive |
 
+
+#### In the production environment
+***this test done by my friend(Kim and Sammi)***
+
+| TYPE | TASK | OUTCOME | COMMENTS |
+| :--: | :--: | :-----: | :------: |
+| authenticate | user can sign up | fail | not sure whether I sign up or not. Nothing shows up |
+| authenticate | user can login | pass | able to log in with what I create |
+| authenticate | user can log out | pass |
+| intergration | get data from heroku | n/a | 
+| card | add card | fail | looks working well, but everything return to original when I refresh |
+| card | edit card | fail | looks working well, but everything return to original when I refresh |
+| card | delete card | fail | looks working well, but everything return to original when I refresh |
+| theme | choose color | fail | looks working well, but everything return to original when I refresh |
+| image | upload | fail | it is clickable but can not save |
+| search | user can search by name | pass | all searchable names are working well with theme colors |
+| search | user can see error message | fail | error message still shows up after I found right searchable name |
+| link | user able to access to all routes | pass |
+| display | user display | pass | everything is clear and neat, also I like colors of website 
+| responsive | switch to mobile and tablet | pass | everything is responsive |
 
 
 
 ## R9. Utilises a Formal Testing Framework
 
-Please see app for Jest(React) and Rsepc(Rails) on testing files.
+Please see app for Jest and Cypress on testing files.
 
 ## R10. A Link (URL) to Deployed Website
 
@@ -72,7 +101,7 @@ Please see app for Jest(React) and Rsepc(Rails) on testing files.
 ---
 #### Documented by Eun Jeon(Kyu), Job Alvarez Chow, and 	Ethan Tran
 ---
-***Part A planning documentation is different from my actual outcome which is Part B***
+***Part A planning documentation is different from my actual outcome which is Part B. You can check changed documentation by ppt folder***
 
 
 ## R1 Description of your website, including:
